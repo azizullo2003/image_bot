@@ -1,5 +1,3 @@
-#from googleapiclient.http import MediaFileUpload
-#from google import create_service
 import os
 import os.path
 from google.auth.transport.requests import Request
