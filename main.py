@@ -2,7 +2,7 @@ from aiogram import Bot, Dispatcher, executor
 import asyncio
 from aiogram.contrib.fsm_storage.memory import MemoryStorage
 
-BOT_TOCKEN = '5379980890:AAGXlFmKl34U-nEWGNGGa1_sXeVsjC-1vKQ'
+BOT_TOCKEN = 'your bot token'
 
 loop = asyncio.new_event_loop()
 bot = Bot(token=BOT_TOCKEN, parse_mode="HTML")
